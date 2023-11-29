@@ -4,7 +4,7 @@
 
 **- Syntaxe de base de la Classe** : https://fr.javascript.info/class
 
-- **Qu'est-ce qu'une classe en javascript ?*
+- *Qu'est-ce qu'une classe en javascript ?*
 **Une classe est un modèle qui peut être utilisé pour créer des objets. Elle définit les propriétés et les méthodes que possèderont ces objets. En utilisant des classes, vous pouvez créer plusieurs objets qui partagent les mêmes propriétés et méthodes, ce qui peut être très pratique dans de nombreux cas.*
 
 ### Comment créer une class 
@@ -129,7 +129,7 @@ personnage1.direBonjour(); // Affiche : Bonjour, je m'appelle Alice et j'ai 25 a
 personnage2.direBonjour(); // Affiche : Bonjour, je m'appelle Bob et j'ai 30 ans.
 ```
 
-**En résumé, une classe est un plan qui dit ce que quelque chose doit avoir et faire, et un objet est une chose spécifique créée à partir de ce plan avec des valeurs spéciales.*
+*En résumé, une classe est un plan qui dit ce que quelque chose doit avoir et faire, et un objet est une chose spécifique créée à partir de ce plan avec des valeurs spéciales.*
 
 
 ## Programmation Orientée Objets :
