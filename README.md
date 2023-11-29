@@ -134,5 +134,34 @@ personnage2.direBonjour(); // Affiche : Bonjour, je m'appelle Bob et j'ai 30 ans
 
 ## Programmation Orientée Objets :
 
+### Les concepts fondamentaux de la POO
 
+**Objets :**
+*Les objets sont des instances de classes. Ils représentent des entités du monde réel avec des caractéristiques (attributs) et des comportements (méthodes).*
 
+**Attributs :**
+*Les attributs sont les caractéristiques d'un objet. Ils représentent les données qu'un objet peut avoir. Par exemple, un objet "Personne" peut avoir des attributs tels que le nom et l'âge.*
+
+**Méthodes :**
+*Les méthodes sont les actions qu'un objet peut effectuer. Elles représentent le comportement de l'objet. Par exemple, une méthode "direBonjour" pourrait afficher une salutation.*
+
+**Classes :**
+*Une classe est un modèle ou un plan pour créer des objets. Elle définit la structure et le comportement des objets.*
+
+**Constructeurs :**
+*Un constructeur est une méthode spéciale dans une classe qui est appelée lorsqu'un nouvel objet est créé. Il initialise les attributs de l'objet.*
+
+**Héritage :**
+*L'héritage permet à une classe d'utiliser les propriétés et les méthodes d'une autre classe. Cela favorise la réutilisation du code et la création de hiérarchies de classes.*
+
+**Encapsulation :**
+*L'encapsulation consiste à regrouper les données (attributs) et les méthodes qui agissent sur ces données dans une seule unité (la classe). Elle protège l'accès aux données de manière contrôlée.*
+
+**Abstraction :**
+*L'abstraction consiste à simplifier la complexité en masquant les détails inutiles et en exposant uniquement ce qui est nécessaire. Les classes abstraites et les interfaces sont des moyens de réaliser l'abstraction.*
+
+**Interfaces :**
+*Une interface définit un contrat que les classes doivent suivre. Elle spécifie les méthodes qu'une classe doit implémenter, mais ne fournit pas d'implémentation concrète*
+
+**Polymorphisme :**
+*Le polymorphisme signifie "beaucoup de formes". Il permet à une classe d'être utilisée de différentes manières. Le polymorphisme peut être statique (surcharge de méthodes) ou dynamique (redéfinition de méthodes).*
