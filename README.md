@@ -1,5 +1,5 @@
 # Cheatsheet-POO-js
-Si vous lisez ca et que vous debuter en js utiliser ce site ; https://fr.javascript.info/
+- Si vous lisez ca et que vous debuter en js utiliser ce site ; https://fr.javascript.info/
 
 ## Les class en JavaScript
 
